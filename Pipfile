@@ -10,10 +10,6 @@ pandas = "*"
 numpy = "*"
 seaborn = "*"
 matplotlib = "*"
-plotly = "==4.7.0"
-jupyterlab = "==1.2"
-ipywidgets = "==7.5"
-notebook = "*"
 
 [requires]
 python_version = "3.8"
