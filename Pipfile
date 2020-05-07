@@ -4,17 +4,18 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
 
 [packages]
 pandas = "*"
 numpy = "*"
-seaborn = "*"
 matplotlib = "*"
-jupyterlab = "*"
-ipywidgets = ">=7.5"
+seaborn = "*"
 fastapi = "*"
+psycopg2-binary = "*"
 uvicorn = "*"
+python-dotenv = "*"
+flask = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
