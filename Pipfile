@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
 
 [packages]
 pandas = "*"
@@ -12,8 +13,6 @@ seaborn = "*"
 matplotlib = "*"
 jupyterlab = "*"
 ipywidgets = ">=7.5"
-nodejs = "*"
-npm = "*"
 fastapi = "*"
 uvicorn = "*"
 
