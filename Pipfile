@@ -10,6 +10,10 @@ pandas = "*"
 numpy = "*"
 seaborn = "*"
 matplotlib = "*"
+jupyterlab = "*"
+ipywidgets = ">=7.5"
+nodejs = "*"
+npm = "*"
 
 [requires]
 python_version = "3.8"
