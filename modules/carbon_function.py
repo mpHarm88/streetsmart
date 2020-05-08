@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/mpHarm88/streetsmart/master/data/vehicles.csv"
-df = pd.read_csv(url)
+df = pd.read_csv(url, low_memory=False)
 
 def get_co2(user_make, user_model, user_year):
 
