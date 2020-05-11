@@ -16,6 +16,9 @@ uvicorn = "*"
 python-dotenv = "*"
 flask = "*"
 gunicorn = "*"
+tensorflow = "*"
+category-encoders = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8"
