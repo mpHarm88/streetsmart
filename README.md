@@ -1,3 +1,3 @@
-# Streetsmarts
+# StreetSmarts
 
 streetsmarts.online
